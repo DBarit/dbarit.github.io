@@ -26,14 +26,9 @@
         "url": "http://linkedin.com/in/danielbarit"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "facebook",
+        "username": "dan.barit",
+        "url": "http://facebook.com/dan.barit"
       }
     ]
   },
@@ -49,7 +44,7 @@
       ]
     },
     {
-      "name": "Information Technology",
+      "name": "I.T.",
       "keywords": [
       ]
     },
