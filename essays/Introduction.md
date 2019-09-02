@@ -17,4 +17,6 @@ I decided to major in Management Information Systems because the world we live i
 
 At the beginning of my college career, I started as a Computer Science major. However, as time passed, I began to reflect more on my future and where I want to be in the future. I realized that I was more interested in the information systems/technology field rather than the striaght up programming 24/7 type of field. This was when I decided to switch majors and pursue a Management Information Systems pathway. Although, I did enjoy my time as a Computer Science major, it was not really my type of expertise. 
 
+It's nice to meet you all and I look forward to what the semester holds!
+
 Mahalo!
