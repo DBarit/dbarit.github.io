@@ -24,27 +24,22 @@
         "network": "linkedin",
         "username": "danielbarit",
         "url": "http://linkedin.com/in/danielbarit"
-      },
-      {
-        "network": "facebook",
-        "username": "danielbarit808",
-        "url": "http://facebook.com/danielbarit808"
       }
     ]
   },
   "interests": [
     {
-      "name": "Data Analytics",
+      "name": "IT/IS",
       "keywords": [
       ]
     },
     {
-      "name": "Cloud Computing",
+      "name": "Computing",
       "keywords": [
       ]
     },
     {
-      "name": "CyberSecurity",
+      "name": "Coding",
       "keywords": [
       ]
     },
