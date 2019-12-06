@@ -3,8 +3,9 @@ layout: essay
 type: essay
 title: UI Basics Technical Blog
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-30
+date: 2019-09-29
 labels:
+  - E1
   - UI
   - HTML
   - CSS
