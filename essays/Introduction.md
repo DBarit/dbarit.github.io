@@ -5,6 +5,7 @@ title: Introduction
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-30
 labels:
+  - E0
   - Introduction
   - MIS
 ---
