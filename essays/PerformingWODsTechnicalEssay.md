@@ -5,6 +5,7 @@ title: Performing WODs Technical Essay
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-30
 labels:
+  - E3
   - UI
   - HTML
   - CSS
