@@ -5,7 +5,8 @@ title: Assignment 4 Checkpoint 1
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-03
 labels:
-  - A4
+  - Assignment 4
+  - Checkpoint 1
 --- 
 # Describe the web-application you intend to build (in detail please!)
 
